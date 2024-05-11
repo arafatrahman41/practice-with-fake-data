@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Python Programming",
+      "cover": "https://i.ibb.co/CJxd4mv/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg",
+      "author_img": "https://i.ibb.co/t2Y04ht/bohemian-man-with-his-arms-crossed.jpg",
+      "author_name": "John Doe",
+      "post_time": "10:00 AM",
+      "post_date": "2024-05-10",
+      "reading_time": 10,
+      "hashtags": ["Python", "Programming", "Beginners"]
+    },
+    {
+      "id": 2,
+      "title": "Understanding Object-Oriented Programming",
+      "cover": "https://i.ibb.co/4WSc49J/programming-script-text-coding-word.jpg",
+      "author_img": "https://i.ibb.co/zxwdvDk/portrait-happy-male-with-broad-smile.jpg",
+      "author_name": "william Smith",
+      "post_time": "02:30 PM",
+      "post_date": "2024-05-09",
+      "reading_time": 15,
+      "hashtags": ["OOP", "Programming", "Intermediate"]
+    },
+    {
+      "id": 3,
+      "title": "Tips for Efficient Debugging in JavaScript",
+      "cover": "https://i.ibb.co/x7kRN1w/mika-baumeister-Wpnoqo2pl-FA-unsplash.jpg",
+      "author_img": "https://i.ibb.co/Dp29NBY/close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background.jpg",
+      "author_name": "Alice Johnson",
+      "post_time": "09:15 AM",
+      "post_date": "2024-05-08",
+      "reading_time": 8,
+      "hashtags": ["JavaScript", "Debugging", "Tips"]
+    },
+    {
+      "id": 4,
+      "title": "Getting Started with HTML and CSS",
+      "cover": "https://i.ibb.co/NNryTMk/development-with-abstract-background-1.jpg",
+      "author_img": "https://i.ibb.co/MfzhpQX/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign.jpg",
+      "author_name": "Bob Smith",
+      "post_time": "11:45 AM",
+      "post_date": "2024-05-07",
+      "reading_time": 12,
+      "hashtags": ["HTML", "CSS", "Web Development"]
+    }
+  ]
+  
